@@ -1,0 +1,9 @@
+##This is for sinatra framework
+gem 'sinatra'
+
+## This is for mongodb
+gem 'mongo'
+
+gem 'bson'
+
+gem 'bson_ext'
